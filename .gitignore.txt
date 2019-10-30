@@ -1,0 +1,6 @@
+__pycache__/
+result.xml
+.pytest_cache
+__pycache__
+/API_test/.pytest_cache
+/API_test/__pycache__
